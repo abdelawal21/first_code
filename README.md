@@ -1,2 +1,2 @@
 # first_code
-Premier code sur git
+1. Premier code sur git
